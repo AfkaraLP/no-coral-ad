@@ -1,3 +1,5 @@
+![CoralMC Chat Filter](./banner.png)
+
 # CoralMC Chat Filter  
 
 Blocks CoralMC ads from your chat.  
