@@ -16,4 +16,5 @@ Non puoi piazzare blocchi qui.
 Oggetto acquistato
 XP (
 Coins (
-In questa partita riceverai più punti! 
+In questa partita riceverai più punti!
+ha appena avviato un evento
