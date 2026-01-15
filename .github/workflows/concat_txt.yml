@@ -1,0 +1,46 @@
+name: concat txt files
+
+on:
+  push:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: show directory
+        run: |
+          pwd
+          ls -la
+
+      - name: build all.txt
+        run: |
+          : > all.txt
+          for f in *.txt; do
+            if [ "$f" = "all.txt" ]; then
+              continue
+            fi
+            if [ -f "$f" ]; then
+              cat "$f" >> all.txt
+            fi
+          done
+
+      - name: commit changes
+        run: |
+          git add all.txt
+
+          if git diff --cached --quiet; then
+            echo "no changes to commit"
+            exit 0
+          fi
+
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git commit -m "update all.txt"
+          git push
