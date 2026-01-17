@@ -11,6 +11,7 @@ Non puoi piazzare blocchi qui.
 entrato nella lobby.
 Oggetto acquistato
 ha appena avviato un evento
+[KitPvP]:
 XP (
 Coins (
 In questa partita riceverai più punti!
