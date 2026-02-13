@@ -2,10 +2,11 @@ discord.coralmc.it
 e prova le nostre fantastiche
 ts.coralmc.it
 Vuoi reportare un player?
-Sfida i giocatori da qualsiasi modal
 Segui tutte le novità su
 store.coralmc.it
 twitch.tv/coralmc_network
+/report [nome] [motivo]
+/duel [nome]
 Non possiedi abbastanza
 Non puoi piazzare blocchi qui.
 entrato nella lobby.
