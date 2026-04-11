@@ -12,6 +12,7 @@ Non puoi piazzare blocchi qui.
 entrato nella lobby.
 Oggetto acquistato
 ha appena avviato un evento
+ha appena supportato il server acquistando un pacchetto
 GLOBAL
 XP (
 Coins (
