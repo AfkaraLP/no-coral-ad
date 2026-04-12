@@ -14,6 +14,14 @@ Oggetto acquistato
 ha appena avviato un evento
 ha appena supportato il server acquistando un pacchetto
 GLOBAL
+Coins Tempo in gioco
+Sei stato respawnato
+Rientro tra
+I generatori di Diamante sono stati potenziati al Livello
+I generatori di Smeraldo sono stati potenziati al Livello
+(Uccisione Finale)
+Sei stato eliminato!
+La partita inizia tra
 XP (
 Coins (
 In questa partita riceverai più punti!
