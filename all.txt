@@ -12,7 +12,7 @@ Non puoi piazzare blocchi qui.
 entrato nella lobby.
 Oggetto acquistato
 ha appena avviato un evento
-ha appena supportato il server acquistando un pacchetto
+ha appena supportato il server
 GLOBAL
 Coins Tempo in gioco
 Sei stato respawnato
